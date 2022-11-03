@@ -1,0 +1,12 @@
+.btn-action{
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.btn-action:hover {
+  background-color: #19ab6a;
+}
